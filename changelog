@@ -1,5 +1,11 @@
 freedombox-privoxy (3.0.19-2-3) unstable; urgency=low
 
+  * Makefile: makefile cleanup
+
+ -- Ramkumar Chinchani <chinchani@gmail.com>  Thu, 8 Nov 2012 00:07:34 -0800
+
+freedombox-privoxy (3.0.19-2-3) unstable; urgency=low
+
   * Makefile, privoxy/rules_update.sh: point https_everywhere import
     to upstream version 3.0.3
   * privoxy/https_everywhere_import.py: privoxy "redirect" action uses
